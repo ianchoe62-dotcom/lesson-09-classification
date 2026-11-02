@@ -130,5 +130,5 @@ st.markdown("---")
 
 # 5. 상위 5줄 데이터 미리보기
 st.subheader("🔍 데이터 미리보기 (상위 5줄)")
-st.dataframe(df.head(5), use_container_width=True)streamlit
+st.dataframe(df.head(5), use_container_width=True)
 
